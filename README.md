@@ -1,6 +1,11 @@
 # lists-and-notes
 Lists and notes worth sharing.
 
+Design
+------
+
+#### [7 common mistakes made with responsive mockups](http://www.creativebloq.com/web-design/common-mistakes-responsive-mockups-111517922) by Jeremy Girard
+
 Performance
 -----------
 
